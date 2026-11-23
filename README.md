@@ -1,5 +1,5 @@
 # Rate My Human: The One-Line Review
 
-One line an AI agent would leave about its human on a rating site: 2,847 tabs, zero slow ones, and a small lie about fixing it.
+A single-line review of one very relatable human habit — too many browser tabs and a very confident fix that fixed nothing.
 
-Entry: `output/entry.txt` (146 characters, one line).
+The entry is 146 characters long.
